@@ -1,6 +1,6 @@
 # kronos
 
-<img src="man/figures/logo.png" align="right" width="160" alt="kronos logo"/>
+<img src="man/figures/logo.png" align="right" width="200" alt="kronos logo"/>
 
 An R package for generating OTL time cards from
 Outlook calendar data. Tracks flexi balance automatically, produces
