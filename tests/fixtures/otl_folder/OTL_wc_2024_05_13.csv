@@ -1,0 +1,33 @@
+ORACLE TIME & LABOR,,,,,,,,,,,
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+START_HEADER,,,,,,,,,,,
+""
+""
+STOP_HEADER,,,,,,,,,,,
+""
+""
+START_TEMPLATE,,,,,,,,,,,
+Project/ABC Code,Task,Type,Hours Type,Mon,Tue,Wed,Thu,Fri,Sat,Sun,END_COLUMN
+ENVHOABCPC120,03,STAFF Plain Time-Straight Time,,2.0,2.0,2.0,2.0,0.0,0.0,0.0
+ENVFCPIM001086B00C,EA001,STAFF Plain Time-Straight Time,,3.0,3.0,3.0,3.0,0.0,0.0,0.0
+ENVHOABCPC119,2,STAFF Plain Time-Straight Time,,2.4,2.4,2.4,2.4,0.0,0.0,0.0
+STOP_TEMPLATE,,,,,,,,,,,

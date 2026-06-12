@@ -1,0 +1,12 @@
+Categories,Description,Code,Task,Type,target_hours
+Ignore & Leave,,,,,
+Admin,Team Admin,ENVEGM5.16,010,STAFF Plain Time-Straight Time,10
+Cap Skills,Capital Training,ENVHOABCPC120,03,STAFF Plain Time-Straight Time,20
+FFIDP,FFIDP & FWEP,ENVFCPIM001086B00C,EA001,STAFF Plain Time-Straight Time,40
+Reactive Forecasting,Reactive,ENVHOABCPC119,2,STAFF Plain Time-Straight Time,30
+Team Meeting,Team meetings,ENVEGM5.1.1,990,STAFF Plain Time-Straight Time,15
+Leave,Leave,ENVABE,2,STAFF Plain Time-Straight Time,
+Sick,Sick,ENVABE,1,STAFF Plain Time-Straight Time,
+Leave Half,Leave Half,ENVABE,2,STAFF Plain Time-Straight Time,
+Sick Half,Sick Half,ENVABE,1,STAFF Plain Time-Straight Time,
+Bank Holiday,Bank Holiday,ENVABE,1,STAFF Plain Time-Straight Time,

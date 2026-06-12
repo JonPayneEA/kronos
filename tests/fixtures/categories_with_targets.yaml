@@ -1,0 +1,67 @@
+categories:
+- code: null
+  description: null
+  name: Ignore & Leave
+  target_hours: null
+  task: null
+  type: null
+- code: ENVEGM5.16
+  description: Team Admin
+  name: Admin
+  target_hours: 10.0
+  task: '010'
+  type: STAFF Plain Time-Straight Time
+- code: ENVHOABCPC120
+  description: Capital Training
+  name: Cap Skills
+  target_hours: 20.0
+  task: '03'
+  type: STAFF Plain Time-Straight Time
+- code: ENVFCPIM001086B00C
+  description: FFIDP & FWEP
+  name: FFIDP
+  target_hours: 40.0
+  task: EA001
+  type: STAFF Plain Time-Straight Time
+- code: ENVHOABCPC119
+  description: Reactive
+  name: Reactive Forecasting
+  target_hours: 30.0
+  task: '2'
+  type: STAFF Plain Time-Straight Time
+- code: ENVEGM5.1.1
+  description: Team meetings
+  name: Team Meeting
+  target_hours: 15.0
+  task: '990'
+  type: STAFF Plain Time-Straight Time
+- code: ENVABE
+  description: Leave
+  name: Leave
+  target_hours: null
+  task: '2'
+  type: STAFF Plain Time-Straight Time
+- code: ENVABE
+  description: Sick
+  name: Sick
+  target_hours: null
+  task: '1'
+  type: STAFF Plain Time-Straight Time
+- code: ENVABE
+  description: Leave Half
+  name: Leave Half
+  target_hours: null
+  task: '2'
+  type: STAFF Plain Time-Straight Time
+- code: ENVABE
+  description: Sick Half
+  name: Sick Half
+  target_hours: null
+  task: '1'
+  type: STAFF Plain Time-Straight Time
+- code: ENVABE
+  description: Bank Holiday
+  name: Bank Holiday
+  target_hours: null
+  task: '1'
+  type: STAFF Plain Time-Straight Time

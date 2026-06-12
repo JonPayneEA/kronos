@@ -1,0 +1,31 @@
+Package: kronos
+Title: Automated Time Card Generation for Oracle OTL
+Version: 0.6.0
+Authors@R:
+    person("Jonathan", "Payne", , "jon.payne@environment-agency.gov.uk",
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-2551-5363"))
+Description: Links Outlook calendar exports and daily time-keeping data to
+    produce Oracle Time and Labour (OTL) forms. Supports aggregation and
+    analysis of historical OTL data, flexi balance tracking, time allocation
+    reporting, and objective comparison against quarterly targets. The daily
+    hours spreadsheet is optional: when omitted, standard-day defaults are
+    used with overrides from all-day calendar events.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends:
+    R (>= 4.1.0)
+Imports:
+    data.table,
+    ggplot2,
+    jsonlite,
+    lubridate,
+    readxl,
+    stats,
+    tools,
+    yaml
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
